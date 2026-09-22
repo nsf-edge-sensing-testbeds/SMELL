@@ -1,6 +1,3 @@
-# SMELL: Multi-file Python reproduction
-
-This repository is an engineering reproduction of the method described in the supplied manuscript **SMELL: Jointly Optimized Multimodal Representation and Curriculum Scheduling for Social Media-Based English Language Learning**.
 
 ## What is reproduced
 
